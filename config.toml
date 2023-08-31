@@ -1,3 +1,9 @@
 [fonts]
 size = 14
 family = Hack
+
+[navigation]
+mode = "NativeTab"
+macos-hide-window-buttons = false
+
+### config.toml ends here
