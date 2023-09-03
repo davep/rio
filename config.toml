@@ -2,14 +2,28 @@ window-width = 1200
 window-height = 800
 
 [fonts]
-size = 14
-family = Hack
+size = 18
+
+[fonts.regular]
+family = "Hack"
+weight = 700
+
+[fonts.bold]
+family = "Hack"
+weight = 900
+
+[fonts.italic]
+family = "Hack"
+weight = 700
+style = "italic"
+
+[fonts.bild-italic]
+family = "Hack"
+weight = 900
+style = "italic"
 
 [navigation]
 mode = "NativeTab"
 macos-hide-window-buttons = false
-
-[developer]
-log-level = "INFO"
 
 ### config.toml ends here
