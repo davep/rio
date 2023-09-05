@@ -6,20 +6,20 @@ size = 18
 
 [fonts.regular]
 family = "Hack"
-weight = 700
+weight = 600
 
 [fonts.bold]
 family = "Hack"
-weight = 900
+weight = 800
 
 [fonts.italic]
 family = "Hack"
-weight = 700
+weight = 600
 style = "italic"
 
 [fonts.bild-italic]
 family = "Hack"
-weight = 900
+weight = 800
 style = "italic"
 
 [navigation]
